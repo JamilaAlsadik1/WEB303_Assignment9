@@ -1,0 +1,63 @@
+{"fictionalCharacterBook":[
+	{
+		"name":"Albus Dumbledore",
+		"book":"Harry Potter and the Philosopher's Stone",
+		"otherName":"(Percival, Wulfric, Brian)",
+		"date":"1997-03-15"
+	},
+	{
+		"name":"Benjy Compson",
+		"book":"The Sound and the Fury",
+		"otherName":"(Benjamin, Maury)",
+		"date":"1929-06-25"
+	},
+	{
+		"name":"Beatrice Prior",
+		"book":"Divergent",
+		"otherName":"(Tris)",
+		"date":"2012-07-28"
+	},
+	{
+		"name":"Percy Jackson",
+		"book":"The Lightning Thief",
+		"otherName":"(Perseus)",
+		"date":"2005-12-17"
+	},
+	{
+		"name":"Piscine Molitor Patel",
+		"book":"Life of Pi",
+		"otherName":"(Pi)",
+		"date":"2002-09-15"
+	},
+	{
+		"name":"Betsy Ray",
+		"book":"Betsy-Tacy",
+		"otherName":"(Elizabeth, Warrington)",
+		"date":"1940-11-25"
+	},
+	{
+		"name":"Bill Sikes",
+		"book":"Oliver Twist",
+		"otherName":"(William)",
+		"date":"1883-07-22"
+	},
+	{
+		"name":"Bonnie Butler",
+		"book":"Gone With the Wind",
+		"otherName":"(Eugenie, Blue, Victoria)",
+		"date":"1936-01-13"
+	},
+	{
+		"name":"Caddie Woodlawn",
+		"book":"Caddie Woodlawn",
+		"otherName":"(Caroline)",
+		"date":"1936-10-30"
+	},
+	{
+		"name":"Carreen O'Hara",
+		"book":"Gone With the Wind",
+		"otherName":"(Caroline, Irene)",
+		"date":"1936-08-30"
+	}
+	
+]}

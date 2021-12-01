@@ -1,0 +1,36 @@
+body{
+    max-width: 970px ;
+    margin: 20px auto;
+}
+table{
+    width: 100%;
+    margin-top: 20px;
+}
+h1{
+    width: 100%;
+    text-align: center;
+}
+.hide{
+    display: none;
+}
+.active{
+    background-color:yellow;
+}
+td{
+    background-color: white;
+}
+
+th.ascending:after {
+    content: '\25B2';
+    float: right;
+}
+
+th.descending:after {
+    content: '\25BC';
+    float: right;
+}
+
+th.ascending, th.descending, table.sortable th:hover {
+	background-color: darkred;
+    cursor: pointer;
+}
